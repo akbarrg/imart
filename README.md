@@ -20,5 +20,5 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration vue
+### Customize configuration react
 See [Configuration Reference](https://cli.vuejs.org/config/).
