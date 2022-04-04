@@ -20,5 +20,5 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration react
+### Customize configuration phyton
 See [Configuration Reference](https://cli.vuejs.org/config/).
