@@ -1,6 +1,6 @@
 # imart
 
-## Project setup
+## Project setup vue
 ```
 yarn install
 ```
